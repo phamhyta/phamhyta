@@ -8,7 +8,7 @@
 - 📫 How to reach me: 
   + :green_heart: tranxuanhuong336@gmail.com 
   + :green_heart: 0354568912
-- 🌱 Huong's github stats:
+- 🌱 Huong's github status:
 
 
 ![Số liệu thống kê github của Hương]( https://github-readme-stats.vercel.app/api?username=phamhyta&count_private=true&show_icons=true&theme=radical&hide_rank=false)
