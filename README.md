@@ -1,5 +1,7 @@
 ### Hi there, I'm Huong 👋
 
+<a href=#><img src="image.svg"></a>
+
 - 🔭 I’m currently working on Yopaz Co., Ltd
 - 🌱 I am currently studying at HUST, I love programming, data science and books
 - :sparkles: Programming languages I can use currently: php, C/C++, Js. I'm working on php laravel, tailwindcss, bootstrap,...
