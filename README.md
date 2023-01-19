@@ -1,6 +1,7 @@
 ### Hi there, I'm Huong 👋
-
+<p align="center"> 
 <a href=#><img src="image.svg"></a>
+</p>
 
 - 🔭 I’m currently working on Yopaz Co., Ltd
 - 🌱 I am currently studying at HUST, I love programming, data science and books
