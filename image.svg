@@ -1,1 +1,18 @@
-<span class="progressive-img_capturer progressive-img_wrapper article-img-wrapper"><canvas class="progressive-img_tiny progressive-img_filter-blur article-img-tiny progressive-img_hidden" width="800" height="564" style="background: url('https://images.viblo.asia/60/e7fe004b-87f9-4e50-b20b-74003bed18c9.gif') 100%/100%"></canvas><img class="progressive-img_full article-img" width="800" height="564" data-full-src="https://images.viblo.asia/e7fe004b-87f9-4e50-b20b-74003bed18c9.gif" alt="" data-tiny-src="https://images.viblo.asia/60/e7fe004b-87f9-4e50-b20b-74003bed18c9.gif" data-zoom-src="https://images.viblo.asia/full/e7fe004b-87f9-4e50-b20b-74003bed18c9.gif" data-srcset="https://images.viblo.asia/retina/e7fe004b-87f9-4e50-b20b-74003bed18c9.gif 2x" data-wrapper-class="article-img-wrapper" data-tiny-class="article-img-tiny" data-full-class="article-img" src="https://images.viblo.asia/e7fe004b-87f9-4e50-b20b-74003bed18c9.gif"></span>
+<animate 
+    attributeName="d" 
+    dur="1440ms" 
+    repeatCount="indefinite"
+    values="M 0,0 
+    C 50,0 50,0 100,0
+    100,50 100,50 100,100
+    50,100 50,100 0,100
+    0,50 0,50 0,0
+    Z;
+
+    M 0,0 
+    C 50,0 50,0 100,0
+    100,50 100,50 100,100
+    50,100 50,100 0,100
+    0,50 0,50 0,0
+    Z;"
+/>
