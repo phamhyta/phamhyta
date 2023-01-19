@@ -1,7 +1,6 @@
 ### Hi there, I'm Huong 👋
 <p align="center"> 
-<a href=#><img src="image.svg"></a>
-  <a href=#><img src="cat.svg"></a>
+  <a href=#><img width="300" height="300" src="cat.svg"></a>
 </p>
 
 - 🔭 I’m currently working on Yopaz Co., Ltd
@@ -14,5 +13,5 @@
   + :green_heart: 0354568912
 - 🌱 Huong's github status:
 
-
 ![Số liệu thống kê github của Hương]( https://github-readme-stats.vercel.app/api?username=phamhyta&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+<a href=#><img src="image.svg"></a>
